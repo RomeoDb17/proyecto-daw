@@ -3,7 +3,7 @@
 ## Índice
 
 - [Descripción](##Descripción)
-- [Características Principales](##Características Principales)
+- [Características Principales](##CaracterísticasPrincipales)
 - [Posibles Funciones Adicionales](##Posibles Funciones Adicionales)
 - [Tecnologías Utilizadas](##Tecnologías Utilizadas)
 - [Metodología de Desarrollo y Planificación](##Metodología de Desarrollo y Planificación)
